@@ -1,0 +1,6 @@
+DX_05401_V_mpeg2_main_main_192x240_15fps_2mbps.m2v 192 240
+DX_05402_V_mpeg2_main_main_352x288_25fps_1.5mbps.m2v 352 288
+DX_05403_V_mpeg2_main_main_352x240_30fps_1.5mbps.m2v 352 240
+DX_05404_V_mpeg2_main_main_720x480_30fps_6Mbps.m2v 720 480
+DX_05405_V_mpeg2_main_main_720x480_60fps_19mbps.m2v 720 480
+DX_05406_V_mpeg2_main_high_1280x720_25fps_8Mbps.m2v 1280 720
